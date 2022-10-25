@@ -1,4 +1,4 @@
-package com.algorithm.algorithstudy.cheonjaeseung.programmers.problem_92341;
+package com.algorithm.algorithstudy.cheonjaeseung.programmers.problem92341;
 
 import java.util.*;
 
